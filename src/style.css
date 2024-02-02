@@ -273,7 +273,6 @@ button:focus {
 .home-section {
   position: relative;
   z-index: -1;
-  /* background-image: var(--image-gradient), url(./Assets/.jpg); */
   background-image: url(./Assets/home-bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
@@ -465,7 +464,7 @@ button:focus {
   text-align: right;
 }
 
-.footer-body {
+.footer-body-icons {
   z-index: 1;
   text-align: center !important;
 }
