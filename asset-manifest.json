@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65048475.css",
+    "main.js": "/static/js/main.8a2fa584.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-bg.jpg": "/static/media/home-bg.cc1273af450504afe755.jpg",
+    "static/media/home-img.svg": "/static/media/home-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Giuseppe_Visco_CurriculumVitae.pdf": "/static/media/Giuseppe_Visco_CurriculumVitae.13dddaecfcbf4ea4d94f.pdf",
+    "static/media/logo.png": "/static/media/logo.3b807d6f0a8dd99477c6.png",
+    "static/media/avatar.svg": "/static/media/avatar.354bf2a82220021267553b813e4ae658.svg",
+    "static/media/pre.svg": "/static/media/pre.9285be0ff8c102171e93.svg",
+    "index.html": "/index.html",
+    "main.65048475.css.map": "/static/css/main.65048475.css.map",
+    "main.8a2fa584.js.map": "/static/js/main.8a2fa584.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65048475.css",
+    "static/js/main.8a2fa584.js"
+  ]
+}
