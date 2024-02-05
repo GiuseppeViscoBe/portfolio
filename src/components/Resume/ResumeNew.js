@@ -38,8 +38,8 @@ function ResumeNew() {
       <Container fluid className="resume-section">
         <Particle />
 
-        <Row className="resume">
-          <Document file={pdf} className="d-flex justify-content-center">
+        <Row className="resume" >
+          <Document file={pdf} className="d-flex justify-content-center" >
             <Page pageNumber={1} scale={scale} />
           </Document>
         </Row>

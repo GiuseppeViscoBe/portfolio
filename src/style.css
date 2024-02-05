@@ -668,6 +668,10 @@ button:focus {
   padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
   color: white !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .resume {
@@ -685,6 +689,7 @@ button:focus {
 }
 
 @media (max-width: 767px) {
+  
   .resume-left {
     padding-right: 15px !important;
     padding-left: 15px !important;
@@ -695,6 +700,13 @@ button:focus {
     padding-left: 15px !important;
   }
 }
+
+@media (min-width: 767px) and (max-width: 1200px){
+  .resume-section {
+    height: 95vh !important;
+  }
+}
+
 .resume .resume-title {
   font-size: 2em;
   font-weight: 700;
